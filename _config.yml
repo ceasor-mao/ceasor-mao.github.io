@@ -18,7 +18,6 @@ author: Ceasor
 
 tagline: 欢迎来到Ceasor的博客 # it will display as the subtitle
 
-logo: /assets/img/favicons/favicon.ico
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
