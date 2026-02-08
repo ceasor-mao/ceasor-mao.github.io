@@ -1,5 +1,5 @@
 ---
-title: StreamVGGT循环网络架构版VGGT
+title: StreamVGGT因果注意力版VGGT
 tags: 神经网络 前馈三维重建
 mathjax: true  
 mathjax_autoNumber: true
